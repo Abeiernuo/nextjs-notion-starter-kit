@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '小玉儿のblog',
-  domain: 'https://educated-yew-904.notion.site/d76b37211f6348fe9f5ee06cf4312623?v=d054d931a1524224ae50dea7754012fd&pvs=4',
+  domain: 'https://educated-yew-904.notion.site/eb23b3c41c9844eaabc051cccdc82eb6?pvs=4',
   author: '小玉儿挖星星',
 
   // open graph metadata (optional)
