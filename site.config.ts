@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '12c68ca065868058854ae9e17e4c557f',
+  rootNotionPageId: '12d68ca0658680ad8ac6e6754b2cacfb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '含羞草',
-  domain: 'https://puddle-network-046.notion.site/12c68ca065868058854ae9e17e4c557f?pvs=4',
-  author: '含羞草',
+  name: '小玉er',
+  domain: 'https://edu-xiaoyu.notion.site/12d68ca0658680ad8ac6e6754b2cacfb?pvs=105',
+  author: 'Notion 教育邮箱申请',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
